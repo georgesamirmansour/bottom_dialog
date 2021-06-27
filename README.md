@@ -2,11 +2,15 @@
 
 Bottom dialog is a picker dialog for pick with single or multiply chooses. with support of adding icons or and search.
 
-<img src="/screenShot/1.png" alt="alt text" width="250" height="500"><img src="/screenShot/2.png" alt="alt text" width="250" height="500">
-<img src="/screenShot/3.png" alt="alt text" width="250" height="500"><img src="/screenShot/4.png" alt="alt text" width="250" height="500">
-<img src="/screenShot/5.png" alt="alt text" width="250" height="500"><img src="/screenShot/6.png" alt="alt text" width="250" height="500">
-<img src="/screenShot/7.png" alt="alt text" width="250" height="500"><img src="/screenShot/8.png" alt="alt text" width="250" height="500">
-<img src="/screenShot/9.png" alt="alt text" width="250" height="500">
+<img src="https://github.com/georgesamirmansour/bottom_dialog/blob/master/screenShot/1.png" width="250" height="500">
+<img src="https://github.com/georgesamirmansour/bottom_dialog/blob/master/screenShot/2.png" width="250" height="500">
+<img src="https://github.com/georgesamirmansour/bottom_dialog/blob/master/screenShot/3.png" width="250" height="500">
+<img src="https://github.com/georgesamirmansour/bottom_dialog/blob/master/screenShot/4.png" width="250" height="500">
+<img src="https://github.com/georgesamirmansour/bottom_dialog/blob/master/screenShot/5.png" width="250" height="500">
+<img src="https://github.com/georgesamirmansour/bottom_dialog/blob/master/screenShot/6.png" width="250" height="500">
+<img src="https://github.com/georgesamirmansour/bottom_dialog/blob/master/screenShot/7.png" width="250" height="500">
+<img src="https://github.com/georgesamirmansour/bottom_dialog/blob/master/screenShot/8.png" width="250" height="500">
+<img src="https://github.com/georgesamirmansour/bottom_dialog/blob/master/screenShot/9.png" width="250" height="500">
 
 
 ## Getting Started
