@@ -3,7 +3,7 @@
 Bottom dialog is a picker dialog for pick with single or  
 multiply chooses. with support of adding icons or and search.
 
-![Alt text](/screenShots/1.png?raw=true "1")
+![Alt text](/screenShot/1.png?raw=true "1")
 
 ## Getting Started
 
