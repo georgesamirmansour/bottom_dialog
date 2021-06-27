@@ -3,19 +3,9 @@
 Bottom dialog is a picker dialog for pick with single or  
 multiply chooses. with support of adding icons or and search.
 
-<image src ='https://github.com/georgesamirmansour/bottom_dialog/blob/master/screenShot/1.png'>
-<image src ='https://github.com/georgesamirmansour/bottom_dialog/blob/master/screenShot/2.png'>
-<image src ='https://github.com/georgesamirmansour/bottom_dialog/blob/master/screenShot/3.png'>
-<image src ='https://github.com/georgesamirmansour/bottom_dialog/blob/master/screenShot/4.png'>
-<image src ='https://github.com/georgesamirmansour/bottom_dialog/blob/master/screenShot/5.png'>
-<image src ='https://github.com/georgesamirmansour/bottom_dialog/blob/master/screenShot/6.png'>
-<image src ='https://github.com/georgesamirmansour/bottom_dialog/blob/master/screenShot/7.png'>
-<image src ='https://github.com/georgesamirmansour/bottom_dialog/blob/master/screenShot/8.png'>
-<image src ='https://github.com/georgesamirmansour/bottom_dialog/blob/master/screenShot/9.png'>
+![Alt text](/screenShots/1.png?raw=true "1")
 
 ## Getting Started
-
-
 
 
 
