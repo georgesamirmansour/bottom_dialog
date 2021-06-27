@@ -6,7 +6,7 @@ Progress button help developer to make custom progress with button and animation
 
 Screenshots
 ```groovy
-![Alt text](/screenShot/1.png?raw=true "1")
+![Alt text](/relative/path/to/screenShot/1.png?raw=true "1")
 ![Alt text](/screenShot/2.png?raw=true "2")
 ![Alt text](/screenShot/3.png?raw=true "3")
 ![Alt text](/screenShot/4.png?raw=true "4")
