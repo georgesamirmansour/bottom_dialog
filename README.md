@@ -1,11 +1,8 @@
 # progress_button
 
-Progress button help developer to make custom progress with button and animation.
+Bottom dialog is a picker dialog for pick with single or  
+multiply chooses. with support of adding icons or and search.
 
-## Getting Started
-
-Screenshots
-```groovy
 <image src ='https://github.com/georgesamirmansour/bottom_dialog/blob/master/screenShot/1.png'>
 <image src ='https://github.com/georgesamirmansour/bottom_dialog/blob/master/screenShot/2.png'>
 <image src ='https://github.com/georgesamirmansour/bottom_dialog/blob/master/screenShot/3.png'>
@@ -15,7 +12,13 @@ Screenshots
 <image src ='https://github.com/georgesamirmansour/bottom_dialog/blob/master/screenShot/7.png'>
 <image src ='https://github.com/georgesamirmansour/bottom_dialog/blob/master/screenShot/8.png'>
 <image src ='https://github.com/georgesamirmansour/bottom_dialog/blob/master/screenShot/9.png'>
-```
+
+## Getting Started
+
+
+
+
+
 ## Examples: BottomModelExample
 ```groovy
  List<BottomModel> list = [
