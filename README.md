@@ -3,15 +3,8 @@
 Bottom dialog is a picker dialog for pick with single or  
 multiply chooses. with support of adding icons or and search.
 
-![Alt text](/screenShot/1.png =250x250?raw=true "1")
-![Alt text](/screenShot/2.png =250x250?raw=true "2")
-![Alt text](/screenShot/3.png =250x250?raw=true "3")
-![Alt text](/screenShot/4.png =250x250?raw=true "4")
-![Alt text](/screenShot/5.png =250x250?raw=true "5")
-![Alt text](/screenShot/6.png =250x250?raw=true "6")
-![Alt text](/screenShot/7.png =250x250?raw=true "7")
-![Alt text](/screenShot/8.png =250x250?raw=true "8")
-![Alt text](/screenShot/9.png =250x250?raw=true "9")
+<img src="/screenShot/1.png" alt="alt text" width="250" height="250">
+
 
 ## Getting Started
 
