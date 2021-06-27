@@ -6,7 +6,7 @@ Progress button help developer to make custom progress with button and animation
 
 Screenshots
 ```groovy
-![Alt text](/relative/path/screenShot/1.png?raw=true "1")
+Format: ![Alt text](/relative/path/screenShot/1.png?raw=true "1")
 ![Alt text](/screenShot/2.png?raw=true "2")
 ![Alt text](/screenShot/3.png?raw=true "3")
 ![Alt text](/screenShot/4.png?raw=true "4")
@@ -35,33 +35,63 @@ Screenshots
 ```
 ## Examples: ShowDialog
 ```groovy
-ShowBottomDialog(
+    ShowBottomDialog(
       context: context,
       bottomModelList: list,
-      multiSelect: true,
-      useSearch: true,
-      itemTextStyle: TextStyle(color: Colors.black87, fontSize: 18.0),
+      // show or hide image inside list
       showImage: true,
+      // list item text style
+      itemTextStyle: TextStyle(color: Colors.black87, fontSize: 18.0),
+      // title text in center of header
       titleText: Text(
         'Select which',
         style: TextStyle(color: Colors.black, fontSize: 22.0),
       ),
+      // save word text, only showed when multiSelect = true,
       saveWord: 'Save',
+      // save text style
       saveTextStyle: TextStyle(color: Colors.blueAccent, fontSize: 18.0),
-      cancelWord: 'Cancel',
+      // background color
       widgetColor: Colors.white,
+      // allow use search inside dialog
+      useSearch: true,
+      // search text
       searchWord: 'Search...',
+      // search text style
       searchTextStyle: TextStyle(color: Colors.blueAccent, fontSize: 16.0),
+      // search hint text style
       searchHintTextStyle: TextStyle(color: Colors.grey, fontSize: 16.0),
+
+      // custom widget for search icon as prefix
       prefixSearchIcon: Icon(
         Icons.search,
         color: Colors.blueAccent,
       ),
+      // if true => return onSave function, else return onItemSelected
+      multiSelect: true,
       onSave: (List<BottomModel> returnedList) {},
+      // return
       onItemSelected: (BottomModel item) {},
+      // allow to show shadow at top and bottom of dialog
       hasShadow: true,
-      dividerColor: Colors.black,
+      // make custom dialog
+      customBoxShadow: [
+        BoxShadow(
+          color: Colors.blueAccent,
+          blurRadius: 5.0,
+          spreadRadius: 5.0,
+          offset: Offset(2.0, 2.0), // shadow direction: bottom right
+        )
+      ],
+      // divider after header (cancel, title text...)
+      hasDividerAfterHeader: true,
+      // divider color
+      dividerColor: Colors.blueGrey,
+      // cancel text
+      cancelWord: 'Cancel',
+      // cancel text style , will throw error if it's null
       cancelTextStyle: TextStyle(color: Colors.red, fontSize: 16.0),
+      // dialog top left and right radius
       dialogRadius: 30.0,
     );
 ```
