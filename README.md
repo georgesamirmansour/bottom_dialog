@@ -3,15 +3,15 @@
 Bottom dialog is a picker dialog for pick with single or  
 multiply chooses. with support of adding icons or and search.
 
-![Alt text](/screenShot/1.png?raw=true "1"=250x250)
-![Alt text](/screenShot/2.png?raw=true "2"=250x250)
-![Alt text](/screenShot/3.png?raw=true "3"=250x250)
-![Alt text](/screenShot/4.png?raw=true "4"=250x250)
-![Alt text](/screenShot/5.png?raw=true "5"=250x250)
-![Alt text](/screenShot/6.png?raw=true "6"=250x250)
-![Alt text](/screenShot/7.png?raw=true "7"=250x250)
-![Alt text](/screenShot/8.png?raw=true "8"=250x250)
-![Alt text](/screenShot/9.png?raw=true "9"=250x250)
+![Alt text](/screenShot/1.png=250x250?raw=true "1")
+![Alt text](/screenShot/2.png=250x250?raw=true "2")
+![Alt text](/screenShot/3.png=250x250?raw=true "3")
+![Alt text](/screenShot/4.png=250x250?raw=true "4")
+![Alt text](/screenShot/5.png=250x250?raw=true "5")
+![Alt text](/screenShot/6.png=250x250?raw=true "6")
+![Alt text](/screenShot/7.png=250x250?raw=true "7")
+![Alt text](/screenShot/8.png=250x250?raw=true "8")
+![Alt text](/screenShot/9.png=250x250?raw=true "9")
 
 ## Getting Started
 
