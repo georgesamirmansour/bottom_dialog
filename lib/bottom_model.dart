@@ -3,7 +3,7 @@ import 'package:flutter/cupertino.dart';
 class BottomModel {
   String name;
   Widget? imageWidget;
-  int id;
+  String id;
   bool selected;
   int? sortId;
 

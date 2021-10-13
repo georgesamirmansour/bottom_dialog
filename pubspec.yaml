@@ -2,7 +2,7 @@ name: bottom_dialog
 description: Bottom dialog is a picker dialog for pick with single or
   multiply chooses. with support of adding icons or and search.
 homepage: https://github.com/georgesamirmansour/bottom_dialog.git
-version: 1.0.2
+version: 1.0.3
 
 environment:
   sdk: ">=2.13.0 <3.0.0"

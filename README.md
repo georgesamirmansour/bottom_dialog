@@ -1,4 +1,4 @@
-# progress_button
+# bottom_dialog
 
 Bottom dialog is a picker dialog for pick with single or multiply chooses. with support of adding icons or and search.
 
